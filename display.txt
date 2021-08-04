@@ -1,0 +1,277 @@
+WELCOME TO THE TICKET VIEWER
+Type menu to view options or q to quit viewer: menu
+
+************* MENU ************
+Enter 1 to view all the tickets
+Enter 2 to view a single ticket
+Enter q to quit
+*******************************
+1
+
+|1  'Ticket with subject: Sample ticket: Meet the ticket' submitted by '1901045205885' on '2021-07-28T03:08:25Z'
+*
+|2  'Ticket with subject: velit eiusmod reprehenderit officia cupidatat' submitted by '1901045205885' on '2021-07-29T15:28:50Z'
+*
+|3  'Ticket with subject: excepteur laborum ex occaecat Lorem' submitted by '1901045205885' on '2021-07-29T15:28:50Z'     
+*
+|4  'Ticket with subject: ad sunt qui aute ullamco' submitted by '1901045205885' on '2021-07-29T15:28:51Z'
+*
+|5  'Ticket with subject: aliquip mollit quis laborum incididunt' submitted by '1901045205885' on '2021-07-29T15:28:52Z'  
+*
+|6  'Ticket with subject: nisi aliquip ipsum nostrud amet' submitted by '1901045205885' on '2021-07-29T15:28:53Z'
+*
+|7  'Ticket with subject: cillum quis nostrud labore amet' submitted by '1901045205885' on '2021-07-29T15:28:54Z'
+*
+|8  'Ticket with subject: proident est nisi non irure' submitted by '1901045205885' on '2021-07-29T15:28:54Z'
+*
+|9  'Ticket with subject: veniam ea eu minim aute' submitted by '1901045205885' on '2021-07-29T15:28:55Z'
+*
+|10  'Ticket with subject: magna reprehenderit nisi est cillum' submitted by '1901045205885' on '2021-07-29T15:28:56Z'    
+*
+|11  'Ticket with subject: quis veniam ad sunt non' submitted by '1901045205885' on '2021-07-29T15:28:56Z'
+*
+|12  'Ticket with subject: tempor aliquip sint dolore incididunt' submitted by '1901045205885' on '2021-07-29T15:28:57Z'  
+*
+|13  'Ticket with subject: labore pariatur ut laboris laboris' submitted by '1901045205885' on '2021-07-29T15:28:58Z'     
+*
+|14  'Ticket with subject: officia mollit aliqua eu nostrud' submitted by '1901045205885' on '2021-07-29T15:28:58Z'       
+*
+|15  'Ticket with subject: do incididunt incididunt quis anim' submitted by '1901045205885' on '2021-07-29T15:28:59Z'     
+*
+|16  'Ticket with subject: tempor magna anim ea id' submitted by '1901045205885' on '2021-07-29T15:29:00Z'
+*
+|17  'Ticket with subject: exercitation sit incididunt magna laboris' submitted by '1901045205885' on '2021-07-29T15:29:00Z'
+*
+|18  'Ticket with subject: laborum ea ut in cupidatat' submitted by '1901045205885' on '2021-07-29T15:29:01Z'
+*
+|19  'Ticket with subject: est fugiat labore pariatur esse' submitted by '1901045205885' on '2021-07-29T15:29:02Z'        
+*
+|20  'Ticket with subject: commodo sint laboris est et' submitted by '1901045205885' on '2021-07-29T15:29:02Z'
+*
+|21  'Ticket with subject: laboris sint Lorem ex Lorem' submitted by '1901045205885' on '2021-07-29T15:29:03Z'
+*
+|22  'Ticket with subject: esse adipisicing consectetur sunt tempor' submitted by '1901045205885' on '2021-07-29T15:29:03Z'
+*
+|23  'Ticket with subject: sunt enim pariatur id id' submitted by '1901045205885' on '2021-07-29T15:29:04Z'
+*
+|24  'Ticket with subject: et ad ut enim labore' submitted by '1901045205885' on '2021-07-29T15:29:05Z'
+*
+|25  'Ticket with subject: voluptate dolor deserunt ea deserunt' submitted by '1901045205885' on '2021-07-29T15:29:05Z'   
+*
+
+------------------------------------------------------------------------------
+Select view options:
+        'next'   | Go to next page
+        'prev'   | Go to previous page
+        'select' | Select a specific ticket
+        'menu'   | Return to the menu
+        'q'      | To quit the viewer.
+------------------------------------------------------------------------------
+
+What do you want to do? next
+|26  'Ticket with subject: in labore quis mollit mollit' submitted by '1901045205885' on '2021-07-29T15:29:06Z'
+*
+|27  'Ticket with subject: ut magna eiusmod magna nostrud' submitted by '1901045205885' on '2021-07-29T15:29:07Z'
+*
+|28  'Ticket with subject: magna consequat ut ullamco magna' submitted by '1901045205885' on '2021-07-29T15:29:07Z'       
+*
+|29  'Ticket with subject: irure pariatur aliquip dolore esse' submitted by '1901045205885' on '2021-07-29T15:29:08Z'     
+*
+|30  'Ticket with subject: officia esse nostrud est exercitation' submitted by '1901045205885' on '2021-07-29T15:29:09Z'  
+*
+|31  'Ticket with subject: aute ipsum sint exercitation labore' submitted by '1901045205885' on '2021-07-29T15:29:09Z'    
+*
+|32  'Ticket with subject: velit irure elit incididunt non' submitted by '1901045205885' on '2021-07-29T15:29:10Z'        
+*
+|33  'Ticket with subject: fugiat non aliqua irure aliquip' submitted by '1901045205885' on '2021-07-29T15:29:11Z'        
+*
+|34  'Ticket with subject: proident esse ut velit labore' submitted by '1901045205885' on '2021-07-29T15:29:11Z'
+*
+|35  'Ticket with subject: laboris et proident qui enim' submitted by '1901045205885' on '2021-07-29T15:29:12Z'
+*
+|36  'Ticket with subject: in id consequat dolore enim' submitted by '1901045205885' on '2021-07-29T15:29:12Z'
+*
+|37  'Ticket with subject: enim duis deserunt ipsum ad' submitted by '1901045205885' on '2021-07-29T15:29:13Z'
+*
+|38  'Ticket with subject: ipsum ex id minim eu' submitted by '1901045205885' on '2021-07-29T15:29:14Z'
+*
+|39  'Ticket with subject: incididunt mollit pariatur esse esse' submitted by '1901045205885' on '2021-07-29T15:29:14Z'   
+*
+|40  'Ticket with subject: sit pariatur nisi reprehenderit sit' submitted by '1901045205885' on '2021-07-29T15:29:15Z'    
+*
+|41  'Ticket with subject: amet ipsum amet laborum sit' submitted by '1901045205885' on '2021-07-29T15:29:16Z'
+*
+|42  'Ticket with subject: ut anim tempor voluptate deserunt' submitted by '1901045205885' on '2021-07-29T15:29:16Z'      
+*
+|43  'Ticket with subject: eu id magna aute occaecat' submitted by '1901045205885' on '2021-07-29T15:29:17Z'
+*
+|44  'Ticket with subject: velit in sit deserunt id' submitted by '1901045205885' on '2021-07-29T15:29:18Z'
+*
+|45  'Ticket with subject: proident esse laboris officia pariatur' submitted by '1901045205885' on '2021-07-29T15:29:18Z' 
+*
+|46  'Ticket with subject: irure esse irure qui dolore' submitted by '1901045205885' on '2021-07-29T15:29:19Z'
+*
+|47  'Ticket with subject: officia voluptate sit sunt pariatur' submitted by '1901045205885' on '2021-07-29T15:29:20Z'    
+*
+|48  'Ticket with subject: sunt dolore excepteur laborum magna' submitted by '1901045205885' on '2021-07-29T15:29:20Z'    
+*
+|49  'Ticket with subject: qui voluptate culpa do tempor' submitted by '1901045205885' on '2021-07-29T15:29:21Z'
+*
+|50  'Ticket with subject: officia magna velit nostrud ullamco' submitted by '1901045205885' on '2021-07-29T15:29:21Z'    
+*
+
+------------------------------------------------------------------------------
+Select view options:
+        'next'   | Go to next page
+        'prev'   | Go to previous page
+        'select' | Select a specific ticket
+        'menu'   | Return to the menu
+        'q'      | To quit the viewer.
+------------------------------------------------------------------------------
+
+What do you want to do? next
+|51  'Ticket with subject: esse ut qui do aute' submitted by '1901045205885' on '2021-07-29T15:29:22Z'
+*
+|52  'Ticket with subject: fugiat sunt do incididunt enim' submitted by '1901045205885' on '2021-07-29T15:29:23Z'
+*
+|53  'Ticket with subject: reprehenderit id non aliqua enim' submitted by '1901045205885' on '2021-07-29T15:29:23Z'       
+*
+|54  'Ticket with subject: sint excepteur mollit excepteur aliqua' submitted by '1901045205885' on '2021-07-29T15:29:24Z' 
+*
+|55  'Ticket with subject: voluptate proident voluptate incididunt culpa' submitted by '1901045205885' on '2021-07-29T15:29:25Z'
+*
+|56  'Ticket with subject: aliqua sit quis cupidatat nisi' submitted by '1901045205885' on '2021-07-29T15:29:25Z'
+*
+|57  'Ticket with subject: et veniam ullamco consequat amet' submitted by '1901045205885' on '2021-07-29T15:29:26Z'       
+*
+|58  'Ticket with subject: excepteur Lorem anim adipisicing deserunt' submitted by '1901045205885' on '2021-07-29T15:29:27Z'
+*
+|59  'Ticket with subject: mollit tempor fugiat incididunt aliqua' submitted by '1901045205885' on '2021-07-29T15:29:27Z' 
+*
+|60  'Ticket with subject: cillum cillum mollit et deserunt' submitted by '1901045205885' on '2021-07-29T15:29:28Z'       
+*
+|61  'Ticket with subject: nulla adipisicing occaecat mollit voluptate' submitted by '1901045205885' on '2021-07-29T15:29:29Z'
+*
+|62  'Ticket with subject: quis nulla minim labore aliquip' submitted by '1901045205885' on '2021-07-29T15:29:29Z'        
+*
+|63  'Ticket with subject: laboris eu laborum aute fugiat' submitted by '1901045205885' on '2021-07-29T15:29:30Z'
+*
+|64  'Ticket with subject: voluptate aliquip occaecat deserunt ad' submitted by '1901045205885' on '2021-07-29T15:29:31Z' 
+*
+|65  'Ticket with subject: velit minim adipisicing magna esse' submitted by '1901045205885' on '2021-07-29T15:29:31Z'     
+*
+|66  'Ticket with subject: tempor laborum qui voluptate nulla' submitted by '1901045205885' on '2021-07-29T15:29:32Z'     
+*
+|67  'Ticket with subject: adipisicing officia reprehenderit id fugiat' submitted by '1901045205885' on '2021-07-29T15:29:33Z'
+*
+|68  'Ticket with subject: id ipsum ex deserunt esse' submitted by '1901045205885' on '2021-07-29T15:29:34Z'
+*
+|69  'Ticket with subject: adipisicing exercitation ex nostrud ipsum' submitted by '1901045205885' on '2021-07-29T15:29:34Z'
+*
+|70  'Ticket with subject: magna aliqua occaecat culpa velit' submitted by '1901045205885' on '2021-07-29T15:29:35Z'      
+*
+|71  'Ticket with subject: non enim adipisicing veniam ullamco' submitted by '1901045205885' on '2021-07-29T15:29:36Z'    
+*
+|72  'Ticket with subject: quis non laborum sint non' submitted by '1901045205885' on '2021-07-29T15:29:36Z'
+*
+|73  'Ticket with subject: aliqua minim Lorem proident eiusmod' submitted by '1901045205885' on '2021-07-29T15:29:37Z'    
+*
+|74  'Ticket with subject: duis dolore est esse et' submitted by '1901045205885' on '2021-07-29T15:29:38Z'
+*
+|75  'Ticket with subject: deserunt excepteur anim Lorem nisi' submitted by '1901045205885' on '2021-07-29T15:29:38Z'     
+*
+
+------------------------------------------------------------------------------
+Select view options:
+        'next'   | Go to next page
+        'prev'   | Go to previous page
+        'select' | Select a specific ticket
+        'menu'   | Return to the menu
+        'q'      | To quit the viewer.
+------------------------------------------------------------------------------
+
+What do you want to do? next
+|76  'Ticket with subject: commodo excepteur cupidatat aliquip quis' submitted by '1901045205885' on '2021-07-29T15:29:39Z'
+*
+|77  'Ticket with subject: Lorem aliqua id nisi minim' submitted by '1901045205885' on '2021-07-29T15:29:40Z'
+*
+|78  'Ticket with subject: nulla id excepteur amet deserunt' submitted by '1901045205885' on '2021-07-29T15:29:40Z'       
+*
+|79  'Ticket with subject: ad reprehenderit magna ipsum irure' submitted by '1901045205885' on '2021-07-29T15:29:41Z'     
+*
+|80  'Ticket with subject: qui laboris nostrud non sit' submitted by '1901045205885' on '2021-07-29T15:29:42Z'
+*
+|81  'Ticket with subject: deserunt do magna occaecat id' submitted by '1901045205885' on '2021-07-29T15:29:42Z'
+*
+|82  'Ticket with subject: dolore adipisicing fugiat ex tempor' submitted by '1901045205885' on '2021-07-29T15:29:43Z'    
+*
+|83  'Ticket with subject: anim Lorem reprehenderit Lorem esse' submitted by '1901045205885' on '2021-07-29T15:29:44Z'    
+*
+|84  'Ticket with subject: enim fugiat ad veniam est' submitted by '1901045205885' on '2021-07-29T15:29:44Z'
+*
+|85  'Ticket with subject: veniam ullamco enim ea do' submitted by '1901045205885' on '2021-07-29T15:29:45Z'
+*
+|86  'Ticket with subject: do excepteur magna duis consequat' submitted by '1901045205885' on '2021-07-29T15:29:46Z'      
+*
+|87  'Ticket with subject: non pariatur nisi ad est' submitted by '1901045205885' on '2021-07-29T15:29:46Z'
+*
+|88  'Ticket with subject: eiusmod tempor dolore adipisicing est' submitted by '1901045205885' on '2021-07-29T15:29:47Z'  
+*
+|89  'Ticket with subject: quis minim quis eiusmod qui' submitted by '1901045205885' on '2021-07-29T15:29:47Z'
+*
+|90  'Ticket with subject: duis fugiat excepteur sit do' submitted by '1901045205885' on '2021-07-29T15:29:48Z'
+*
+|91  'Ticket with subject: non nostrud anim cillum sit' submitted by '1901045205885' on '2021-07-29T15:29:49Z'
+*
+|92  'Ticket with subject: officia sunt aliquip duis nisi' submitted by '1901045205885' on '2021-07-29T15:29:49Z'
+*
+|93  'Ticket with subject: ut amet eiusmod cupidatat est' submitted by '1901045205885' on '2021-07-29T15:29:50Z'
+*
+|94  'Ticket with subject: duis excepteur cillum pariatur Lorem' submitted by '1901045205885' on '2021-07-29T15:29:51Z'   
+*
+|95  'Ticket with subject: ex cillum cillum proident commodo' submitted by '1901045205885' on '2021-07-29T15:29:51Z'      
+*
+|96  'Ticket with subject: eiusmod eu esse ex incididunt' submitted by '1901045205885' on '2021-07-29T15:29:52Z'
+*
+|97  'Ticket with subject: excepteur consequat reprehenderit labore dolor' submitted by '1901045205885' on '2021-07-29T15:29:53Z'
+*
+|98  'Ticket with subject: cillum commodo nulla laborum nostrud' submitted by '1901045205885' on '2021-07-29T15:29:53Z'   
+*
+|99  'Ticket with subject: elit sit laborum commodo laborum' submitted by '1901045205885' on '2021-07-29T15:29:54Z'       
+*
+|100  'Ticket with subject: adipisicing duis quis consequat velit' submitted by '1901045205885' on '2021-07-29T15:29:55Z' 
+*
+
+------------------------------------------------------------------------------
+Select view options:
+        'next'   | Go to next page
+        'prev'   | Go to previous page
+        'select' | Select a specific ticket
+        'menu'   | Return to the menu
+        'q'      | To quit the viewer.
+------------------------------------------------------------------------------
+
+What do you want to do? select
+Enter the ticket number: 90
+
+SUBJECT: duis fugiat excepteur sit do
+ID:  93
+CREATED: 2021-07-29T15:29:48Z
+
+
+
+
+DESCRIPTION: Consectetur ut consectetur ex aute quis laboris exercitation elit officia sint excepteur id. Qui nostrud esse proident anim ut adipisicing et nisi amet ad. Lorem laborum aliqua sunt ullamco consectetur dolore amet adipisicing consectetur sunt do. Laborum qui elit sint dolore proident ad laborum culpa consectetur. Mollit mollit elit laborum ipsum ut Lorem aute Lorem consequat est. Dolore deserunt consequat reprehenderit deserunt ut culpa.
+
+Consectetur ut amet amet enim. Elit exercitation eiusmod nulla veniam cillum. Enim excepteur labore et dolore esse. Officia deserunt Lorem est qui aute duis velit qui sint occaecat do et duis. Proident reprehenderit reprehenderit commodo ipsum 
+adipisicing est sunt incididunt labore eiusmod minim dolore. Minim proident minim ullamco ea tempor minim culpa eu ut proident consectetur Lorem. Adipisicing pariatur est mollit est.
+
+************* MENU ************
+Enter 1 to view all the tickets
+Enter 2 to view a single ticket
+Enter q to quit
+*******************************
+q
+
+Thanks for using ticket viewer.
+
