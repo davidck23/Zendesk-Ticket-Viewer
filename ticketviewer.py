@@ -1,9 +1,9 @@
 import requests
 # Global variables 
-URL2="https://zccfranko.zendesk.com/api/v2/tickets.json?page[size]=100"#change the subdomain of URL2 to that of your account
+URL2="https://{subdomain}.zendesk.com/api/v2/tickets.json?page[size]=100"#change the subdomain of URL2 to that of your account
 PER_PAGE=25
-URL = "https://zccfranko.zendesk.com/api/v2/tickets.json?page[size]=25"#change the subdomain of URL to that of your account
-AUTH = ("david.okoro@rocketmail.com", "zccaccount") #fill in your email and password
+URL = "https://{subdomain}.zendesk.com/api/v2/tickets.json?page[size]=25"#change the subdomain of URL to that of your account
+AUTH = ("email_address", "password") #fill in your email and password
 
 # Do HTTP requests
 response = requests.get(url=URL, auth=AUTH)
